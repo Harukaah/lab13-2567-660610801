@@ -14,16 +14,3 @@ export default function Home() {
     </div>
   );
 }
-
-//create route /contact. And add a placeholder
-//move Header, Navbar, Footer into layout.js
-//remove those components from app/page.js
-//code contact page content
-//implement linking of Navbar component
-
-//create route /movie
-//create route /movie/[id]
-//- test getting id from params
-//- copy content from app/page.js
-//- search for selMovie with id
-//- display not found when not found
